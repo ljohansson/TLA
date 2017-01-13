@@ -10,19 +10,18 @@ The Regions_of_interest.txt file should have the following format. Tab delimited
 
 > RUNX1   21:36150098-36421595
 
-The scripts 
-> windowed_coverage.pl
-,
-> in_silico_enrich.pl
-and
-> human-mouse_singleGenomePlot_normalized.R
-have been created by Cergentis B.V.
+The scripts "windowed_coverage.pl", "in_silico_enrich.pl" and "human-mouse_singleGenomePlot_normalized.R" have been created by Cergentis B.V.
 
 > Cergentis B.V.
+
 > Yalelaan 62
+
 > 3584 CM Utrecht
+
 > The Netherlands
+
 > +31 (0)30 760 16 36
+
 > info@cergentis.com
 
 The file human-mouse_singleGenomePlot_normalized_fix_20160920_abscut100_Inhousefiltered.R is an adaptation of the human-mouse_singleGenomePlot_normalized.R script. The following changes are made:
