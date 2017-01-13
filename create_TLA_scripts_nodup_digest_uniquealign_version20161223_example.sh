@@ -630,7 +630,7 @@ TOTAL_SAMPLENAME="$LOCALOUTPUTPATH"/"$FILENAME2""_nodup_trimmed_digested_MP1and2
 #The cluster installation does not have X11 available for R to create png images. Run script 5b locally to create the png
 
 #The png image can be created using a local R installation
-Rscript $LOCALSCRIPTSFOLDER/human-mouse_singleGenomePlot_fix_20160729.R $TOTAL_SAMPLENAME_ROI"_coverage.txt"
+Rscript $LOCALSCRIPTSFOLDER/human-mouse_singleGenomePlot_normalized_fix_20160920_abscut100_Inhousefiltered.R $TOTAL_SAMPLENAME_ROI"_coverage.txt"
 
 " > $OUTPUTNAME
                 let COUNTERB=COUNTERB+1
