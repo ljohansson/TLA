@@ -12,7 +12,9 @@ The Regions_of_interest.txt file should have the following format. Tab delimited
 
 The scripts 
 > windowed_coverage.pl
+,
 > in_silico_enrich.pl
+and
 > human-mouse_singleGenomePlot_normalized.R
 have been created by Cergentis B.V.
 
