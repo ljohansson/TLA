@@ -1,6 +1,12 @@
 # TLA
 This repository contains scripts associated with the analysis of data created with the Cergentis TLA technology
 
+The methods and protocols to which the scripts in this repository belong are described in: 
+
+M. Z. Alimohamed, L. F. Johansson, E. N. De Boer, E. Splinter, P. Klous, M. Yilmaz, A. Bosga, M. Van Min, A. B. Mulder, E. Vellenga, R. J. Sinke, R. H. Sijmons, E. Van Den Berg, and B. Sikkema-Raddatz, “Genetic screening test to detect translocations in acute leukemias by use of targeted locus amplification,” Clin. Chem., vol. 64, no. 7, 2018.
+
+The scripts used in the paper were submitted in this repository on 26 Apr 2017 (commit 6c83b09)
+
 ##Dependencies and used scripts
 The script splitfqbyCATG.pl can be found on https://gist.github.com/mmterpstra/2417200a96f841862c82220893490202
 
